@@ -15,3 +15,10 @@ Tasks:
 Roadmap
 - Connect to the database (SQL, Postgres, Mongo, etc)
 
+System Requirements
+- Node Version 18.x
+- 
+
+Uses the below SDK
+- https://sdk.vercel.ai/providers/community-providers/ollama
+
